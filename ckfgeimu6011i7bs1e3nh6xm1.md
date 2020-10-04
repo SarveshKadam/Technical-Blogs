@@ -176,4 +176,4 @@ Even in between `const` and `let`, use `const` wherever possible as it makes the
 The above-mentioned points are good enough to get you started with `var`, `let`, and `const`.
 
 
->Thank you for your time for reading the article, please leave a review and share it if it >helped you. Also, give a follow on my twitter(twitter.com/kadamsarvesh10)
+>Thank you for your time for reading the article, give a follow on my [twitter](https://twitter.com/kadamsarvesh10) as I am documenting my learning
