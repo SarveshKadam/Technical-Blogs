@@ -77,7 +77,5 @@ This is what I learned when I started with JSON. Understanding fundamentals and 
 `JSON.stringify()` Object --> JSON 
 - `JSON.parse()` JSON --> Object 
 
-<hr>
-*Thank you for your time for reading the article, please leave a review and share it if it helped you. Also, give a follow on my twitter(https://twitter.com/kadamsarvesh10)
-*
+>Thank you for your time for reading the article, give a follow on my [twitter](https://twitter.com/kadamsarvesh10) as I am documenting my learning
 
