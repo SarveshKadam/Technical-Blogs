@@ -1,6 +1,6 @@
 ## What exactly is the Queue Data Structure in JavaScript?
 
-**Data Structure** are observed in every programming language be it in the form array, objects. They are nothing but a way of organizing, updating, retrieving, and storing data.
+**Data Structure** are observed in every programming language be it in the form of an array, objects. They are nothing but a way of organizing, updating, retrieving, and storing data.
 In this article, we'll discuss the queue data structure.
 The queue is nothing but a collection of items having the **FIFO** ( **F**irst **I**n **F**irst **O**ut) format
 
