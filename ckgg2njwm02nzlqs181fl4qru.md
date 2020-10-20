@@ -120,7 +120,7 @@ Then we export this instance using `module.exports`
 ```
 //---- Exported file [calculate.js]  ----
 
-const Add = ()=>{
+function Add (){
     this.result = (a,b)=>{
         return a + b
     }
@@ -134,10 +134,9 @@ Now we can import it into our main file and access the 'result' method inside it
 ```
 //---- Main file[main.js] ----
 
-const add = require('./calculate')
-const result = add.result(2,1)
-
-console.log(result); //Output : 3
+const add = require('./calculate2')
+const result = add.result(1,3)
+console.log(result); //Output : 4
 
 ```
 This way we can export and import a function constructor.
