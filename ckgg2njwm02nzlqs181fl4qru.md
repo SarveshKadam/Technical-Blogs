@@ -196,7 +196,7 @@ We looked into a few ways how we can do this, such as
 * Importing a Function Constructor
 * Importing ES6 Classes
 
-There and n number of ways in which you can export and import your own files.
+There are n number of ways in which you can export and import your own files.
 
 The other things which we did not discuss in this article are importing npm modules and importing node core modules which we'll look into in an upcoming article.
 
