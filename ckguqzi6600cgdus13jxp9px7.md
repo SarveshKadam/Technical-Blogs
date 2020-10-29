@@ -1,6 +1,6 @@
 ## How to get started with NPM(Node Package Manager) Packages?
 
-In this article, we are going to discuss how can we used NPM (Node Package Manager).
+In this article, we are going to discuss how can we use NPM (Node Package Manager).
 
 But before reading, I would suggest you to read my previous two articles of this [**Node Modules**](https://hashnode.com/series/node-modules-ckgn9w1n001uuo9s11k8e5cq2) series.
 
