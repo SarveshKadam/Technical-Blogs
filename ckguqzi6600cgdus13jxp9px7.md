@@ -37,7 +37,7 @@ It follows the semantic versioning as `Major_changes`**.**`Minor_changes`**.**`P
 `Minor_changes` are a new enhancement or feature along with defect fixes been added which should not affect your existing code.<br>
 `Patch` is the small bug fixes that will not crash your existing code.
 
-You learn more about semantic versioning on [semver.org](https://semver.org/)
+You can learn more about semantic versioning on [semver.org](https://semver.org/)
 
 #### NPM Installation:
 Now to import any package from NPM, you first need to initialize NPM on your local project folder by running the command on the command prompt
