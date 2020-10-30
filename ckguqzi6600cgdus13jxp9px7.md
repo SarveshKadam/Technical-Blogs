@@ -1,4 +1,4 @@
-## How to get started with NPM(Node Package Manager) Packages?
+## Getting started with NPM(Node Package Manager)
 
 In this article, we are going to discuss what is NPM (Node Package Manager) and how can we use it in our project.
 
