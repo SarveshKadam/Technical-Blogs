@@ -1,4 +1,4 @@
-## Learn var, const, and let [JavaScript] in 6 minutes
+## var vs const vs let in javascript
 
 If you have started learning JavaScript and even if you are in the early stages you must have come across `var`, `const`, and `let` variable declaration.
 
