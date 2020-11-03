@@ -1,3 +1,2 @@
-#Example Repository
-This is a sample Repo, Hello world!
-This is a second change
+#Technical Blog
+I write technical blogs on JavaScript, NodeJS , Express and Programming related topic at [sarveshkadam.tech]()
