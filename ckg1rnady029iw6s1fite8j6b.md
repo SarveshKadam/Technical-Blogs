@@ -2,32 +2,36 @@
 
 **Tutorial Hell** stated as per the [urban dictionary](https://www.urbandictionary.com/define.php?term=Tutorial%20Hell)
 
->When you are learning Computer Science and programming but unfortunately you don't understand any of the code you wrote down from the tutorial but it works. Not only that you cannot write your own. It is very hard to get out of this and be able to write your own code. So it is a hell.
+>When you are learning Computer Science and programming but unfortunately you don't understand any of the code you wrote down from the tutorial but it works. Not only that you cannot write your own. It is very hard to get out of this and be able to write your own code. So it is hell.
 
-Do you agree with the above definition, or does your definition of Tutorial hell is different?
+Do you agree with the above definition, or do you have a particular definition of Tutorial Hell?
 
-If you ask me, I feel we do understand the code from the tutorial. <br><br>It's just we are so reliant on the tutorial that we feel insecure if we are just given a blank code editor and told to write code or start with a new project.
+I feel we understand the code from the tutorial if you ask me.
 
-There is another situation that happens where we start with a tutorial we complete almost a 20 - 30 % of it.<br><br> But at some point, we feel we are not on the same path as of the tutor or the complexity of a particular concept takes a drastic turn where we can't keep up with the pace of the course.
+It's just that we're so dependent on the tutorial that if we're just given a blank code editor and told to write code or begin a new project, we feel vulnerable.
 
-Have you faced such obstacles in your learning?
+There is another scenario that occurs when we begin with a tutorial that we complete nearly 20-30% of it.
 
+But we feel at some stage that we are not on the same road as the tutor or that the difficulty of a specific concept takes a dramatic turn where we can not keep up with the speed of the course.
+
+Have you faced hurdles like that in your learning?
 
 
 
 ![kelly-sikkema-CbZC2KVnK8s-unsplash (2).jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1602181088289/4nBSvbaKx.jpeg)
 *Pic credit [unsplash](https://unsplash.com/)*
 
-### Here are a few ways you can modify your learning 
 
-To overcome your problem on Imposter Syndrome or in simple terms not able to write code on your own. 
-
+#### Here are a few ways you can improve the learning process.
 
 - 
-**I**f you have not yet picked any tutorial, do select a project-based tutorial, then divide the tutorial into many sections at your convenience.<br><br>
-Now let say the tutorial is about building a Task App Project, then you should start building a To-Do App simultaneously with the tutorial.<br><br>
-When a particular section is finished, stop the tutorial, go back to your own project folder and start building with the concepts you learned in that section. Do use Google as a primary resource and then refer to your own tutorial notes.
+To solve your Imposter Syndrome dilemma or in simple terms, not being able to write code on your own.
 
+If you have not yet selected a tutorial, pick a project-based tutorial, and then at your convenience, divide the tutorial into several parts.
+
+Let's assume now that the tutorial is about building a Task App Project, then you can start building a To-Do App with the tutorial at the same time.
+
+Stop the tutorial when a specific section is done, return to your own project folder and start building with the concepts you learned in that section. As a primary reference, use Google and then refer to your own tutorial notes.
 In this way, you will gain some confidence in writing code on your own and you will feel much better while starting a new project without any step by step tutorial.
 
 
